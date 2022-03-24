@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item>
+	<holiday>
+		<text>삼일절</text>
+	</holiday>
+
+	<holiday>
+		<text>크리스마스</text>
+	</holiday>
+
+	<holiday>
+		<text>석가탄신일</text>
+	</holiday>
+
+	<holiday>
+		<text>광복절</text>
+	</holiday>
+
+	<holiday>
+		<text>구정</text>
+	</holiday>
+
+	<holiday>
+		<text>추석</text>
+	</holiday>
+
+	<holiday>
+		<text>어린이날</text>
+	</holiday>
+
+	<holiday>
+		<text>개천절</text>
+	</holiday>
+
+	<holiday>
+		<text>현충일</text>
+	</holiday>
+</item>
